@@ -9,3 +9,5 @@ xcopy /? > "Не скрытая папка\copyhelp.txt"
 xcopy "Не скрытая папка\copyhelp.txt" "Скрытая папка\copied_copyhelp.txt"
 
 pause
+
+exit /b 0

@@ -9,3 +9,5 @@ for /r %%i in (*) do (
 
 echo Количество файлов: %count%
 pause
+
+exit /b 0
